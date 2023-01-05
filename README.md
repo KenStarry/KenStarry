@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: ...
+The name KenStarry came from one of my highschool teachers who called me a star one time... and that's how KenStarry was born :sparkles:
+
 <!--
 **KenStarry/KenStarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
